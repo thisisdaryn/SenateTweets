@@ -17,10 +17,13 @@ The currently uploaded files are tab-delimited. Some tweets may contain endline 
 
 Some notes on the accounts being followed:
 
-1. The intent of the account is to aggregate the tweets of sitting US Senators.
-2. My preference is to follow 100 accounts: 1 for each Senator. But I have considered changing that. 
-3. Different senators may have different combinations of verified accounts corresponding to personal, Senate office, or campaign activities. In keeping with the above, I've made some decisions on which accounts to follow. Perhaps I've chosen the wrong account to follow in some cases. Or perhaps the restriction to 100 accounts is inappropriate.   
-4. Specific changes that have been made:
+  1. The intent of the account is to aggregate the tweets of sitting US Senators.
+
+  2. My preference is to follow 100 accounts: 1 for each Senator. But I have considered changing that. 
+  
+  3. Different senators may have different combinations of verified accounts corresponding to personal, Senate office, or campaign activities. In keeping with the above, I've made some decisions on which accounts to follow. Perhaps I've chosen the wrong account to follow in some cases. Or perhaps the restriction to 100 accounts is inappropriate.   
+  
+  4. Specific changes that have been made:
   Followed @BernieSanders before switching to @SenSanders 
   Followed @stabenow before switching to @SenStabenow
   Followed @ThomTillis before switching to @SenThomTillis
